@@ -1,0 +1,1957 @@
+{
+  "type": "FeatureCollection",
+  "name": "Mediterranean coastal stream gauges",
+  "attribution": "Fuente: CEDEX. Modified by Gerard Llorach (gllorach@fbg.ub.edu) 2021. License: CC-BY 4.0",
+  "source": {
+    "href": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=1568%7C4",
+    "type": "text/html",
+    "homepage": "https://www.miteco.gob.es/",
+    "name": "CEDEX"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SERVOL",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8002%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8002",
+        "Lugar": "SERVOL",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": null,
+        "Altitud__m_": "42",
+        "Coordenadas_UTM_X_huso_30": "791270",
+        "Coordenadas_UTM_Y_huso_30": "4488600",
+        "Nombre_del_municipio": "VINAROS",
+        "Nombre_del_tramo_de_la_corriente": "SERVOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4333,
+          40.4936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CALLOSA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8076%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8076",
+        "Lugar": "CALLOSA",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "121",
+        "Altitud__m_": "60",
+        "Coordenadas_UTM_X_huso_30": "754470",
+        "Coordenadas_UTM_Y_huso_30": "4279120",
+        "Nombre_del_municipio": "NUCIA, LA",
+        "Nombre_del_tramo_de_la_corriente": "GUADALEST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0783,
+          38.6223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ORCHETA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8024%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8024",
+        "Lugar": "ORCHETA",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "82",
+        "Altitud__m_": "140",
+        "Coordenadas_UTM_X_huso_30": "738855",
+        "Coordenadas_UTM_Y_huso_30": "4271695",
+        "Nombre_del_municipio": "ORCHETA",
+        "Nombre_del_tramo_de_la_corriente": "SELLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2595,
+          38.5598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MOLINO CHIRLETS",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8001%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8001",
+        "Lugar": "MOLINO CHIRLETS",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "1",
+        "Altitud__m_": "139",
+        "Coordenadas_UTM_X_huso_30": "789330",
+        "Coordenadas_UTM_Y_huso_30": "4498500",
+        "Nombre_del_municipio": "SAN JORGE",
+        "Nombre_del_tramo_de_la_corriente": "CENIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4195,
+          40.5865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "BENITANDUS",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8017%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8017",
+        "Lugar": "BENITANDUS",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "18",
+        "Altitud__m_": "312",
+        "Coordenadas_UTM_X_huso_30": "727630",
+        "Coordenadas_UTM_Y_huso_30": "4423350",
+        "Nombre_del_municipio": "BETXI",
+        "Nombre_del_tramo_de_la_corriente": "VEO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3048,
+          39.9518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "VILLARREAL",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8006%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8006",
+        "Lugar": "VILLARREAL",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "4018",
+        "Altitud__m_": "33",
+        "Coordenadas_UTM_X_huso_30": "749480",
+        "Coordenadas_UTM_Y_huso_30": "4426500",
+        "Nombre_del_municipio": "ALMAZORA",
+        "Nombre_del_tramo_de_la_corriente": "MIJARES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0808,
+          39.9501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ALGAR",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8912%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8912",
+        "Lugar": "ALGAR",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "797",
+        "Altitud__m_": "137",
+        "Coordenadas_UTM_X_huso_30": "726505",
+        "Coordenadas_UTM_Y_huso_30": "4405770",
+        "Nombre_del_municipio": "ALFARA DE ALGIMIA",
+        "Nombre_del_tramo_de_la_corriente": "PALANCIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.356,
+          39.7704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "OLOCAU",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8013%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8013",
+        "Lugar": "OLOCAU",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "147",
+        "Altitud__m_": "86",
+        "Coordenadas_UTM_X_huso_30": "718412",
+        "Coordenadas_UTM_Y_huso_30": "4386362",
+        "Nombre_del_municipio": "BETERA",
+        "Nombre_del_tramo_de_la_corriente": "CARRAIXET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4576,
+          39.5968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ROBELLA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8026%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8026",
+        "Lugar": "ROBELLA",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": null,
+        "Altitud__m_": "17",
+        "Coordenadas_UTM_X_huso_30": "723875",
+        "Coordenadas_UTM_Y_huso_30": "4372625",
+        "Nombre_del_municipio": "VALENCIA",
+        "Nombre_del_tramo_de_la_corriente": "TURIA O GUADALAVIAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4173,
+          39.4634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CULLERA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8049%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8049",
+        "Lugar": "CULLERA",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "18085",
+        "Altitud__m_": "7",
+        "Coordenadas_UTM_X_huso_30": "735540",
+        "Coordenadas_UTM_Y_huso_30": "4340365",
+        "Nombre_del_municipio": "CULLERA",
+        "Nombre_del_tramo_de_la_corriente": "JUCAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2745,
+          39.1791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "VILLALONGA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8071%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8071",
+        "Lugar": "VILLALONGA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "547",
+        "Altitud__m_": "190",
+        "Coordenadas_UTM_X_huso_30": "735791",
+        "Coordenadas_UTM_Y_huso_30": "4306139",
+        "Nombre_del_municipio": "VILLALONGA",
+        "Nombre_del_tramo_de_la_corriente": "SERPIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2833,
+          38.8706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ALGAR",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8077%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8077",
+        "Lugar": "ALGAR",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "73",
+        "Altitud__m_": "51",
+        "Coordenadas_UTM_X_huso_30": "754680",
+        "Coordenadas_UTM_Y_huso_30": "4280050",
+        "Nombre_del_municipio": "CALLOSA D'EN SARRIA",
+        "Nombre_del_tramo_de_la_corriente": "ALGAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0765,
+          38.6302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ORCHETA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8078%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8078",
+        "Lugar": "ORCHETA",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "103",
+        "Altitud__m_": "170",
+        "Coordenadas_UTM_X_huso_30": "737750",
+        "Coordenadas_UTM_Y_huso_30": "4271445",
+        "Nombre_del_municipio": "ORCHETA",
+        "Nombre_del_tramo_de_la_corriente": "AMADORIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2733,
+          38.5578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MUCHAMIEL",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8079%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8079",
+        "Lugar": "MUCHAMIEL",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "423",
+        "Altitud__m_": "110",
+        "Coordenadas_UTM_X_huso_30": "721040",
+        "Coordenadas_UTM_Y_huso_30": "4258455",
+        "Nombre_del_municipio": "MUCHAMIEL",
+        "Nombre_del_tramo_de_la_corriente": "MONEGRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4678,
+          38.4452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ASPE",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=8083%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "8083",
+        "Lugar": "ASPE",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "1639",
+        "Altitud__m_": "166",
+        "Coordenadas_UTM_X_huso_30": "698976",
+        "Coordenadas_UTM_Y_huso_30": "4245490",
+        "Nombre_del_municipio": "ASPE",
+        "Nombre_del_tramo_de_la_corriente": "VINALOPO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7252,
+          38.334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CHONO , EL",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6023%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6023",
+        "Lugar": "CHONO , EL",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "616",
+        "Altitud__m_": "512",
+        "Coordenadas_UTM_X_huso_30": "532050",
+        "Coordenadas_UTM_Y_huso_30": "4103470",
+        "Nombre_del_municipio": "NACIMIENTO",
+        "Nombre_del_tramo_de_la_corriente": "ANDARAX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6407,
+          37.0751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CANJAYAR",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6024%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6024",
+        "Lugar": "CANJAYAR",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "283",
+        "Altitud__m_": "460",
+        "Coordenadas_UTM_X_huso_30": "526100",
+        "Coordenadas_UTM_Y_huso_30": "4095070",
+        "Nombre_del_municipio": "CANJAYAR",
+        "Nombre_del_tramo_de_la_corriente": "NACIMIENTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7079,
+          36.9996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PUENTE CORONADO",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6077%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6077",
+        "Lugar": "PUENTE CORONADO",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "2033",
+        "Altitud__m_": "100",
+        "Coordenadas_UTM_X_huso_30": "348415",
+        "Coordenadas_UTM_Y_huso_30": "4074715",
+        "Nombre_del_municipio": "ALORA",
+        "Nombre_del_tramo_de_la_corriente": "GUADALHORCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7007,
+          36.805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "F. DE MARBELLA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6009%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6009",
+        "Lugar": "F. DE MARBELLA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "550",
+        "Altitud__m_": "0",
+        "Coordenadas_UTM_X_huso_30": "497400",
+        "Coordenadas_UTM_Y_huso_30": "4080330",
+        "Nombre_del_municipio": "BERJA",
+        "Nombre_del_tramo_de_la_corriente": "ADRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0304,
+          36.867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ROSA CAPILLA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6075%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6075",
+        "Lugar": "ROSA CAPILLA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "185",
+        "Altitud__m_": "100",
+        "Coordenadas_UTM_X_huso_30": "366400",
+        "Coordenadas_UTM_Y_huso_30": "4073950",
+        "Nombre_del_municipio": "ALMOGIA",
+        "Nombre_del_tramo_de_la_corriente": "CAMPANILLAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4985,
+          36.7999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CAZULAS",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6052%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6052",
+        "Lugar": "CAZULAS",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "43",
+        "Altitud__m_": "290",
+        "Coordenadas_UTM_X_huso_30": "437385",
+        "Coordenadas_UTM_Y_huso_30": "4074305",
+        "Nombre_del_municipio": "OTIVAR",
+        "Nombre_del_tramo_de_la_corriente": "VERDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7031,
+          36.8106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "AGUJERO",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6031%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6031",
+        "Lugar": "AGUJERO",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "153",
+        "Altitud__m_": "80",
+        "Coordenadas_UTM_X_huso_30": "372130",
+        "Coordenadas_UTM_Y_huso_30": "4070935",
+        "Nombre_del_municipio": "MALAGA",
+        "Nombre_del_tramo_de_la_corriente": "GUADALMEDINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4344,
+          36.7737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "UMBRIA ,LA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6020%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6020",
+        "Lugar": "UMBRIA ,LA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "67",
+        "Altitud__m_": "120",
+        "Coordenadas_UTM_X_huso_30": "407745",
+        "Coordenadas_UTM_Y_huso_30": "4071800",
+        "Nombre_del_municipio": "ARENAS",
+        "Nombre_del_tramo_de_la_corriente": "ALGARROBO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0349,
+          36.7854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "TRAPICHE, EL",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6044%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6044",
+        "Lugar": "TRAPICHE, EL",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "282",
+        "Altitud__m_": "40",
+        "Coordenadas_UTM_X_huso_30": "399475",
+        "Coordenadas_UTM_Y_huso_30": "4074575",
+        "Nombre_del_municipio": "VELEZ-MALAGA",
+        "Nombre_del_tramo_de_la_corriente": "GUARO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.128,
+          36.8098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LOBRES",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6007%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6007",
+        "Lugar": "LOBRES",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "1207",
+        "Altitud__m_": "38",
+        "Coordenadas_UTM_X_huso_30": "450020",
+        "Coordenadas_UTM_Y_huso_30": "4069720",
+        "Nombre_del_municipio": "SALOBREÃ‘A",
+        "Nombre_del_tramo_de_la_corriente": "GUADALFEO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5607,
+          36.7696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ZALEA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6064%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6064",
+        "Lugar": "ZALEA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "73",
+        "Altitud__m_": "110",
+        "Coordenadas_UTM_X_huso_30": "344135",
+        "Coordenadas_UTM_Y_huso_30": "4071090",
+        "Nombre_del_municipio": "PIZARRA",
+        "Nombre_del_tramo_de_la_corriente": "CAÃ‘AS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7404,
+          36.7756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MOLINO GARRIDO",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6063%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6063",
+        "Lugar": "MOLINO GARRIDO",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "61",
+        "Altitud__m_": "100",
+        "Coordenadas_UTM_X_huso_30": "344595",
+        "Coordenadas_UTM_Y_huso_30": "4069235",
+        "Nombre_del_municipio": "PIZARRA",
+        "Nombre_del_tramo_de_la_corriente": "CASARABONELA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7435,
+          36.7532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "TORROX",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6054%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6054",
+        "Lugar": "TORROX",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "18",
+        "Altitud__m_": "0",
+        "Coordenadas_UTM_X_huso_30": "415040",
+        "Coordenadas_UTM_Y_huso_30": "4070245",
+        "Nombre_del_municipio": "TORROX",
+        "Nombre_del_tramo_de_la_corriente": "PATALAMARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.9503,
+          36.771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PTE. CTRA. COIN-MONDA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6076%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6076",
+        "Lugar": "PTE. CTRA. COIN-MONDA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "12",
+        "Altitud__m_": "220",
+        "Coordenadas_UTM_X_huso_30": "340905",
+        "Coordenadas_UTM_Y_huso_30": "4056105",
+        "Nombre_del_municipio": "COIN",
+        "Nombre_del_tramo_de_la_corriente": "PEREILAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7879,
+          36.6519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PUENTE MANANTIAL",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6102%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6102",
+        "Lugar": "PUENTE MANANTIAL",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "7",
+        "Altitud__m_": "0",
+        "Coordenadas_UTM_X_huso_30": "319550",
+        "Coordenadas_UTM_Y_huso_30": "4059225",
+        "Nombre_del_municipio": "PARAUTA",
+        "Nombre_del_tramo_de_la_corriente": "VERDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0168,
+          36.6577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SAN PABLO DE BUCEITE",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6060%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6060",
+        "Lugar": "SAN PABLO DE BUCEITE",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "634",
+        "Altitud__m_": "130",
+        "Coordenadas_UTM_X_huso_30": "284535",
+        "Coordenadas_UTM_Y_huso_30": "4039080",
+        "Nombre_del_municipio": "JIMENA DE LA FRONTERA",
+        "Nombre_del_tramo_de_la_corriente": "GUADIARO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4065,
+          36.4709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "JIMENA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6028%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6028",
+        "Lugar": "JIMENA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "245",
+        "Altitud__m_": "29",
+        "Coordenadas_UTM_X_huso_30": "280185",
+        "Coordenadas_UTM_Y_huso_30": "4034410",
+        "Nombre_del_municipio": "JIMENA DE LA FRONTERA",
+        "Nombre_del_tramo_de_la_corriente": "HOZGARGANTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4526,
+          36.4273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ALMORAIMA, LA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6050%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6050",
+        "Lugar": "ALMORAIMA, LA",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "156",
+        "Altitud__m_": "14",
+        "Coordenadas_UTM_X_huso_30": "281480",
+        "Coordenadas_UTM_Y_huso_30": "4017630",
+        "Nombre_del_municipio": "CASTELLAR DE LA FRONTERA",
+        "Nombre_del_tramo_de_la_corriente": "GUADARRANQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4337,
+          36.2775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CHARCO REDONDO",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6083%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6083",
+        "Lugar": "CHARCO REDONDO",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "32",
+        "Altitud__m_": "135",
+        "Coordenadas_UTM_X_huso_30": "267090",
+        "Coordenadas_UTM_Y_huso_30": "4020255",
+        "Nombre_del_municipio": "BARRIOS, LOS",
+        "Nombre_del_tramo_de_la_corriente": "CAÃ‘AS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.595,
+          36.2977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SANTA BARBARA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6073%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6073",
+        "Lugar": "SANTA BARBARA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "1850",
+        "Altitud__m_": "175",
+        "Coordenadas_UTM_X_huso_30": "591575",
+        "Coordenadas_UTM_Y_huso_30": "4134115",
+        "Nombre_del_municipio": "HUERCAL-OVERA",
+        "Nombre_del_tramo_de_la_corriente": "ALMANZORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9671,
+          37.3472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "TURRE",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6025%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6025",
+        "Lugar": "TURRE",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "284",
+        "Altitud__m_": "0",
+        "Coordenadas_UTM_X_huso_30": "597360",
+        "Coordenadas_UTM_Y_huso_30": "4112570",
+        "Nombre_del_municipio": "TURRE",
+        "Nombre_del_tramo_de_la_corriente": "AGUAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9048,
+          37.1565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "VENTILLA ,LA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=6048%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "6048",
+        "Lugar": "VENTILLA ,LA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "143",
+        "Altitud__m_": "200",
+        "Coordenadas_UTM_X_huso_30": "502055",
+        "Coordenadas_UTM_Y_huso_30": "4075830",
+        "Nombre_del_municipio": "BERJA",
+        "Nombre_del_tramo_de_la_corriente": "CHICO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9777,
+          36.8265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "JEREZ DE LA FRONTERA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=5094%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "5094",
+        "Lugar": "JEREZ DE LA FRONTERA",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "49",
+        "Altitud__m_": "18",
+        "Coordenadas_UTM_X_huso_30": "220567",
+        "Coordenadas_UTM_Y_huso_30": "4060326",
+        "Nombre_del_municipio": "JEREZ DE LA FRONTERA",
+        "Nombre_del_tramo_de_la_corriente": "CURTIDORES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1269,
+          36.6457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "JEREZ DE LA FRONTERA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=5093%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "5093",
+        "Lugar": "JEREZ DE LA FRONTERA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "232",
+        "Altitud__m_": "15",
+        "Coordenadas_UTM_X_huso_30": "224071",
+        "Coordenadas_UTM_Y_huso_30": "4061014",
+        "Nombre_del_municipio": "JEREZ DE LA FRONTERA",
+        "Nombre_del_tramo_de_la_corriente": "CHIVO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0866,
+          36.6529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "JEREZ DE LA FRONTERA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=5085%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "5085",
+        "Lugar": "JEREZ DE LA FRONTERA",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "2869",
+        "Altitud__m_": "18",
+        "Coordenadas_UTM_X_huso_30": "224558",
+        "Coordenadas_UTM_Y_huso_30": "4060690",
+        "Nombre_del_municipio": "JEREZ DE LA FRONTERA",
+        "Nombre_del_tramo_de_la_corriente": "GUADALETE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0825,
+          36.6502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "BARBATE",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=5154%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "5154",
+        "Lugar": "BARBATE",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": null,
+        "Altitud__m_": "0",
+        "Coordenadas_UTM_X_huso_30": "234207",
+        "Coordenadas_UTM_Y_huso_30": "4016899",
+        "Nombre_del_municipio": "VEJER DE LA FRONTERA",
+        "Nombre_del_tramo_de_la_corriente": "BARBATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9597,
+          36.2586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "POLLENSA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11051%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11051",
+        "Lugar": "POLLENSA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "38",
+        "Altitud__m_": "48",
+        "Coordenadas_UTM_X_huso_30": "1014866",
+        "Coordenadas_UTM_Y_huso_30": "4432168",
+        "Nombre_del_municipio": "POLLENSA",
+        "Nombre_del_tramo_de_la_corriente": "SANT JORDI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0181,
+          39.8813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "POLLENSA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11015%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11015",
+        "Lugar": "POLLENSA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "19",
+        "Altitud__m_": "8",
+        "Coordenadas_UTM_X_huso_30": "1019180",
+        "Coordenadas_UTM_Y_huso_30": "4431252",
+        "Nombre_del_municipio": "POLLENSA",
+        "Nombre_del_tramo_de_la_corriente": "SITGES (ALMADRAVA, L')"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0675,
+          39.8705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "POLLENSA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11073%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11073",
+        "Lugar": "POLLENSA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "165",
+        "Altitud__m_": "20",
+        "Coordenadas_UTM_X_huso_30": "1017010",
+        "Coordenadas_UTM_Y_huso_30": "4435414",
+        "Nombre_del_municipio": "POLLENSA",
+        "Nombre_del_tramo_de_la_corriente": "ULL DE LA FONT, L'"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0456,
+          39.9091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LLUCH",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11076%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11076",
+        "Lugar": "LLUCH",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": null,
+        "Altitud__m_": "330",
+        "Coordenadas_UTM_X_huso_30": "1003202",
+        "Coordenadas_UTM_Y_huso_30": "4426181",
+        "Nombre_del_municipio": "ESCORCA",
+        "Nombre_del_tramo_de_la_corriente": "AUBARCA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8778,
+          39.8347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "LLUCH",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11075%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11075",
+        "Lugar": "LLUCH",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "8",
+        "Altitud__m_": "330",
+        "Coordenadas_UTM_X_huso_30": "1003039",
+        "Coordenadas_UTM_Y_huso_30": "4426108",
+        "Nombre_del_municipio": "ESCORCA",
+        "Nombre_del_tramo_de_la_corriente": "LLUCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8758,
+          39.8341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PUEBLA, LA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11017%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11017",
+        "Lugar": "PUEBLA, LA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "154",
+        "Altitud__m_": "8",
+        "Coordenadas_UTM_X_huso_30": "1020042",
+        "Coordenadas_UTM_Y_huso_30": "4422815",
+        "Nombre_del_municipio": "POBLA, SA",
+        "Nombre_del_tramo_de_la_corriente": "AUMEDRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0708,
+          39.7944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SOLLER",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11016%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11016",
+        "Lugar": "SOLLER",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "50",
+        "Altitud__m_": "3",
+        "Coordenadas_UTM_X_huso_30": "987902",
+        "Coordenadas_UTM_Y_huso_30": "4419610",
+        "Nombre_del_municipio": "SOLLER",
+        "Nombre_del_tramo_de_la_corriente": "MAYOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.695,
+          39.7847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MANACOR",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11064%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11064",
+        "Lugar": "MANACOR",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "324",
+        "Altitud__m_": "9",
+        "Coordenadas_UTM_X_huso_30": "1033857",
+        "Coordenadas_UTM_Y_huso_30": "4413379",
+        "Nombre_del_municipio": "PETRA",
+        "Nombre_del_tramo_de_la_corriente": "NA BORGES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2236,
+          39.7013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SANTA MARGARITA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11069%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11069",
+        "Lugar": "SANTA MARGARITA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "47",
+        "Altitud__m_": "18",
+        "Coordenadas_UTM_X_huso_30": "1028065",
+        "Coordenadas_UTM_Y_huso_30": "4417474",
+        "Nombre_del_municipio": "SANTA MARGARITA",
+        "Nombre_del_tramo_de_la_corriente": "BAULO, SON (DRAGONERA)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1597,
+          39.7416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SANTA MARGARITA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11067%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11067",
+        "Lugar": "SANTA MARGARITA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "141",
+        "Altitud__m_": "12",
+        "Coordenadas_UTM_X_huso_30": "1031464",
+        "Coordenadas_UTM_Y_huso_30": "4415073",
+        "Nombre_del_municipio": "SANTA MARGARITA",
+        "Nombre_del_tramo_de_la_corriente": "REAL, SON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1972,
+          39.718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CAPDEPERA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11013%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11013",
+        "Lugar": "CAPDEPERA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "66",
+        "Altitud__m_": "54",
+        "Coordenadas_UTM_X_huso_30": "1049776",
+        "Coordenadas_UTM_Y_huso_30": "4411929",
+        "Nombre_del_municipio": "CAPDEPERA",
+        "Nombre_del_tramo_de_la_corriente": "CANYAMEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.407,
+          39.6783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MARRATXI",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11058%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11058",
+        "Lugar": "MARRATXI",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "66",
+        "Altitud__m_": "24",
+        "Coordenadas_UTM_X_huso_30": "988704",
+        "Coordenadas_UTM_Y_huso_30": "4398748",
+        "Nombre_del_municipio": "MARRATXI",
+        "Nombre_del_tramo_de_la_corriente": "COA NEGRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6889,
+          39.5972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PALMA DE MALLORCA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11001%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11001",
+        "Lugar": "PALMA DE MALLORCA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "215",
+        "Altitud__m_": "13",
+        "Coordenadas_UTM_X_huso_30": "989306",
+        "Coordenadas_UTM_Y_huso_30": "4395688",
+        "Nombre_del_municipio": "PALMA DE MALLORCA",
+        "Nombre_del_tramo_de_la_corriente": "GROS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6936,
+          39.5694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PUIGPUNYENT",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=11002%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "11002",
+        "Lugar": "PUIGPUNYENT",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "29",
+        "Altitud__m_": "108",
+        "Coordenadas_UTM_X_huso_30": "979714",
+        "Coordenadas_UTM_Y_huso_30": "4399948",
+        "Nombre_del_municipio": "PUIGPUNYENT",
+        "Nombre_del_tramo_de_la_corriente": "RIERA, LA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5855,
+          39.613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ROJALES",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=7029%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "7029",
+        "Lugar": "ROJALES",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "14894",
+        "Altitud__m_": "5",
+        "Coordenadas_UTM_X_huso_30": "699930",
+        "Coordenadas_UTM_Y_huso_30": "4218355",
+        "Nombre_del_municipio": "ROJALES",
+        "Nombre_del_tramo_de_la_corriente": "SEGURA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7215,
+          38.0895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GUARDAMAR (PRESA DE S. ANTONIO)",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=7030%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "7030",
+        "Lugar": "GUARDAMAR (PRESA DE S. ANTONIO)",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "14925",
+        "Altitud__m_": "2",
+        "Coordenadas_UTM_X_huso_30": "705210",
+        "Coordenadas_UTM_Y_huso_30": "4218900",
+        "Nombre_del_municipio": "GUARDAMAR DEL SEGURA",
+        "Nombre_del_tramo_de_la_corriente": "SEGURA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6613,
+          38.0928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "ROJALES (NUEVA)",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=7129%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "7129",
+        "Lugar": "ROJALES (NUEVA)",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "14331",
+        "Altitud__m_": "9",
+        "Coordenadas_UTM_X_huso_30": "700655",
+        "Coordenadas_UTM_Y_huso_30": "4218628",
+        "Nombre_del_municipio": "ROJALES",
+        "Nombre_del_tramo_de_la_corriente": "SEGURA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7133,
+          38.0915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GERONA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10020%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10020",
+        "Lugar": "GERONA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "295",
+        "Altitud__m_": "70",
+        "Coordenadas_UTM_X_huso_30": "983369",
+        "Coordenadas_UTM_Y_huso_30": "4663383",
+        "Nombre_del_municipio": "GIRONA - GERONA",
+        "Nombre_del_tramo_de_la_corriente": "OÃ‘AR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8317,
+          41.9733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CAN SERRA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10062%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10062",
+        "Lugar": "CAN SERRA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "802",
+        "Altitud__m_": "35",
+        "Coordenadas_UTM_X_huso_30": "975068",
+        "Coordenadas_UTM_Y_huso_30": "4634211",
+        "Nombre_del_municipio": "TORDERA",
+        "Nombre_del_tramo_de_la_corriente": "TORDERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7078,
+          41.7159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MONCADA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10043%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10043",
+        "Lugar": "MONCADA",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "1017",
+        "Altitud__m_": "37",
+        "Coordenadas_UTM_X_huso_30": "933661",
+        "Coordenadas_UTM_Y_huso_30": "4605811",
+        "Nombre_del_municipio": "MONTCADA I REIXAC",
+        "Nombre_del_tramo_de_la_corriente": "BESOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1927,
+          41.4845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "MONTCADA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10044%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10044",
+        "Lugar": "MONTCADA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "242",
+        "Altitud__m_": "30",
+        "Coordenadas_UTM_X_huso_30": "933107",
+        "Coordenadas_UTM_Y_huso_30": "4606118",
+        "Nombre_del_municipio": "MONTCADA I REIXAC",
+        "Nombre_del_tramo_de_la_corriente": "RIPOLL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1861,
+          41.4876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SIFON N.A.",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10047%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10047",
+        "Lugar": "SIFON N.A.",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "1036",
+        "Altitud__m_": "4",
+        "Coordenadas_UTM_X_huso_30": "935828",
+        "Coordenadas_UTM_Y_huso_30": "4599996",
+        "Nombre_del_municipio": "SANT ADRIA DE BESOS",
+        "Nombre_del_tramo_de_la_corriente": "BESOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2127,
+          41.4304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SANT JOAN DESPI (PRAT)",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10049%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10049",
+        "Lugar": "SANT JOAN DESPI (PRAT)",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "4880",
+        "Altitud__m_": "11",
+        "Coordenadas_UTM_X_huso_30": "922240",
+        "Coordenadas_UTM_Y_huso_30": "4590086",
+        "Nombre_del_municipio": "SANT BOI DE LLOBREGAT",
+        "Nombre_del_tramo_de_la_corriente": "LLOBREGAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.046,
+          41.3497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SAN JUAN DE ESPI",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10070%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10070",
+        "Lugar": "SAN JUAN DE ESPI",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "4888",
+        "Altitud__m_": "17",
+        "Coordenadas_UTM_X_huso_30": "922263",
+        "Coordenadas_UTM_Y_huso_30": "4590088",
+        "Nombre_del_municipio": "SANT BOI DE LLOBREGAT",
+        "Nombre_del_tramo_de_la_corriente": "LLOBREGAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.046,
+          41.3497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FOIX",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10008%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10008",
+        "Lugar": "FOIX",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "279",
+        "Altitud__m_": "148",
+        "Coordenadas_UTM_X_huso_30": "888284",
+        "Coordenadas_UTM_Y_huso_30": "4578841",
+        "Nombre_del_municipio": "CASTELLET I LA GORNAL",
+        "Nombre_del_tramo_de_la_corriente": "FOIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6338,
+          41.2658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "VILABELLA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10007%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10007",
+        "Lugar": "VILABELLA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "340",
+        "Altitud__m_": "160",
+        "Coordenadas_UTM_X_huso_30": "864923",
+        "Coordenadas_UTM_Y_huso_30": "4572774",
+        "Nombre_del_municipio": "VESPELLA",
+        "Nombre_del_tramo_de_la_corriente": "GAYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3522,
+          41.222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "TARRAGONA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10079%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10079",
+        "Lugar": "TARRAGONA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "835",
+        "Altitud__m_": "10",
+        "Coordenadas_UTM_X_huso_30": "855879",
+        "Coordenadas_UTM_Y_huso_30": "4560514",
+        "Nombre_del_municipio": "TARRAGONA",
+        "Nombre_del_tramo_de_la_corriente": "FRANCOLI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2374,
+          41.1161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "RIUDECANYES",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10014%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10014",
+        "Lugar": "RIUDECANYES",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "26",
+        "Altitud__m_": "240",
+        "Coordenadas_UTM_X_huso_30": "832276",
+        "Coordenadas_UTM_Y_huso_30": "4561318",
+        "Nombre_del_municipio": "RIUDECANYES",
+        "Nombre_del_tramo_de_la_corriente": "RIUDECAÃ‘AS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.979,
+          41.1058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "PERELADA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10088%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10088",
+        "Lugar": "PERELADA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "316",
+        "Altitud__m_": "15",
+        "Coordenadas_UTM_X_huso_30": "995536",
+        "Coordenadas_UTM_Y_huso_30": "4701223",
+        "Nombre_del_municipio": "PERALADA",
+        "Nombre_del_tramo_de_la_corriente": "LLOBREGAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0101,
+          42.3038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "FOGARS DE TORDERA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10089%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10089",
+        "Lugar": "FOGARS DE TORDERA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "777",
+        "Altitud__m_": "38",
+        "Coordenadas_UTM_X_huso_30": "973683",
+        "Coordenadas_UTM_Y_huso_30": "4636738",
+        "Nombre_del_municipio": "FOGARS DE TORDERA",
+        "Nombre_del_tramo_de_la_corriente": "TORDERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6942,
+          41.7393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GARRIGAS",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10053%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10053",
+        "Lugar": "GARRIGAS",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "909",
+        "Altitud__m_": "44",
+        "Coordenadas_UTM_X_huso_30": "992141",
+        "Coordenadas_UTM_Y_huso_30": "4684206",
+        "Nombre_del_municipio": "GARRIGAS",
+        "Nombre_del_tramo_de_la_corriente": "FLUVIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9548,
+          42.1536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "BAÃ‘OLAS",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10061%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10061",
+        "Lugar": "BAÃ‘OLAS",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "29",
+        "Altitud__m_": "138",
+        "Coordenadas_UTM_X_huso_30": "979473",
+        "Coordenadas_UTM_Y_huso_30": "4677471",
+        "Nombre_del_municipio": "CORNELLA DE TERRI",
+        "Nombre_del_tramo_de_la_corriente": "TERRI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7967,
+          42.1008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GINESTA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10009%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10009",
+        "Lugar": "GINESTA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "79",
+        "Altitud__m_": "125",
+        "Coordenadas_UTM_X_huso_30": "974097",
+        "Coordenadas_UTM_Y_huso_30": "4667808",
+        "Nombre_del_municipio": "SANT GREGORI",
+        "Nombre_del_tramo_de_la_corriente": "LLEMANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7239,
+          42.0174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GERONA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10010%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10010",
+        "Lugar": "GERONA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "2257",
+        "Altitud__m_": "80",
+        "Coordenadas_UTM_X_huso_30": "982173",
+        "Coordenadas_UTM_Y_huso_30": "4665316",
+        "Nombre_del_municipio": "GIRONA - GERONA",
+        "Nombre_del_tramo_de_la_corriente": "TER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8189,
+          41.9903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SANTA CRISTINA DE ARO",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10064%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10064",
+        "Lugar": "SANTA CRISTINA DE ARO",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "55",
+        "Altitud__m_": "25",
+        "Coordenadas_UTM_X_huso_30": "998213",
+        "Coordenadas_UTM_Y_huso_30": "4646394",
+        "Nombre_del_municipio": "SANTA CRISTINA D'ARO",
+        "Nombre_del_tramo_de_la_corriente": "RIDAURA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9955,
+          41.8109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CORNUDELLA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10041%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10041",
+        "Lugar": "CORNUDELLA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "88",
+        "Altitud__m_": "410",
+        "Coordenadas_UTM_X_huso_30": "825638",
+        "Coordenadas_UTM_Y_huso_30": "4572301",
+        "Nombre_del_municipio": "CORNUDELLA DE MONTSANT",
+        "Nombre_del_tramo_de_la_corriente": "CIURANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8841,
+          41.2356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "GUIAMETS - C.E.",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=9132%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "9132",
+        "Lugar": "GUIAMETS - C.E.",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "93",
+        "Altitud__m_": "197",
+        "Coordenadas_UTM_X_huso_30": "817234",
+        "Coordenadas_UTM_Y_huso_30": "4556919",
+        "Nombre_del_municipio": "SENTIU DE SIO, LA",
+        "Nombre_del_tramo_de_la_corriente": "SIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7761,
+          41.0998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CHERTA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=9212%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "9212",
+        "Lugar": "CHERTA",
+        "En_servicio__1_si__0_no_": "0",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "82972",
+        "Altitud__m_": "15",
+        "Coordenadas_UTM_X_huso_30": "794782",
+        "Coordenadas_UTM_Y_huso_30": "4535469",
+        "Nombre_del_municipio": "XERTA",
+        "Nombre_del_tramo_de_la_corriente": "EBRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4993,
+          40.9156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "TORTOSA",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=9027%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "9027",
+        "Lugar": "TORTOSA",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "84230",
+        "Altitud__m_": "25",
+        "Coordenadas_UTM_X_huso_30": "797063",
+        "Coordenadas_UTM_Y_huso_30": "4524207",
+        "Nombre_del_municipio": "TORTOSA",
+        "Nombre_del_tramo_de_la_corriente": "EBRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5199,
+          40.8133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "CASTELLO DE AMPURIAS",
+        "description": null,
+        "ficha": "https://sig.mapama.gob.es/WebServices/clientews/redes-seguimiento/default.aspx?nombre=ROAN_ESTACION_AFORO_RIOS&claves=COD_HIDRO%7CCOD_SITUACION_ESTACION&valores=10052%7C4",
+        "Indicativo_oficial_de_la_estaci__n_de_aforos": "10052",
+        "Lugar": "CASTELLO DE AMPURIAS",
+        "En_servicio__1_si__0_no_": "1",
+        "Superficie_vertiente_a_la_estaci__n__km2_": "761",
+        "Altitud__m_": "10",
+        "Coordenadas_UTM_X_huso_30": "1001100",
+        "Coordenadas_UTM_Y_huso_30": "4696098",
+        "Nombre_del_municipio": "CASTELLO D'EMPURIES",
+        "Nombre_del_tramo_de_la_corriente": "MUGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0725,
+          42.2542
+        ]
+      }
+    }
+  ]
+}

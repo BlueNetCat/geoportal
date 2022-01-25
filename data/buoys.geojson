@@ -1,0 +1,1076 @@
+{
+  "type": "FeatureCollection",
+  "name": "Buoys of the Catalan Sea",
+  "attribution": "Data collected by Gerard Llorach (gllorach@fbg.ub.edu) 2021. License: CC-BY 4.0",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Porquerolles",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "CANDHIS",
+        "report": "http://candhis.cetmef.developpement-durable.gouv.fr/campagne/?idcampagne=76dc611d6ebaafc66cc0879c71b5db5c",
+        "time_of_data": [
+          "historical",
+          "real-time"
+        ],
+        "start_date": "2018",
+        "end_date": "",
+        "source": {
+          "href": "http://candhis.cetmef.developpement-durable.gouv.fr/campagne/?idcampagne=76dc611d6ebaafc66cc0879c71b5db5c",
+          "type": "text/html",
+          "homepage": "http://candhis.cetmef.developpement-durable.gouv.fr/",
+          "name": "Centre d'Archivage National de Données de Houle In Situ"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.28,
+          42.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Le Planier",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "CANDHIS",
+        "report": "http://candhis.cetmef.developpement-durable.gouv.fr/campagne/?idcampagne=26657d5ff9020d2abefe558796b99584",
+        "time_of_data": [
+          "historical",
+          "real-time"
+        ],
+        "start_date": "2018",
+        "end_date": "",
+        "source": {
+          "href": "http://candhis.cetmef.developpement-durable.gouv.fr/campagne/?idcampagne=26657d5ff9020d2abefe558796b99584",
+          "type": "text/html",
+          "homepage": "http://candhis.cetmef.developpement-durable.gouv.fr/",
+          "name": "Centre d'Archivage National de Données de Houle In Situ"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.23,
+          43.21
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Golfe de Fos",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "CANDHIS",
+        "report": "http://candhis.cetmef.developpement-durable.gouv.fr/campagne/?idcampagne=0a09c8844ba8f0936c20bd791130d6b6",
+        "time_of_data": [
+          "historical",
+          "real-time"
+        ],
+        "start_date": "2018",
+        "end_date": "",
+        "source": {
+          "href": "http://candhis.cetmef.developpement-durable.gouv.fr/campagne/?idcampagne=0a09c8844ba8f0936c20bd791130d6b6",
+          "type": "text/html",
+          "homepage": "http://candhis.cetmef.developpement-durable.gouv.fr/",
+          "name": "Centre d'Archivage National de Données de Houle In Situ"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.38,
+          43.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Sète",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "CANDHIS",
+        "report": "http://candhis.cetmef.developpement-durable.gouv.fr/campagne/?idcampagne=02e74f10e0327ad868d138f2b4fdd6f0",
+        "time_of_data": [
+          "historical",
+          "real-time"
+        ],
+        "start_date": "2006",
+        "end_date": "",
+        "source": {
+          "href": "http://candhis.cetmef.developpement-durable.gouv.fr/campagne/?idcampagne=02e74f10e0327ad868d138f2b4fdd6f0",
+          "type": "text/html",
+          "homepage": "http://candhis.cetmef.developpement-durable.gouv.fr/",
+          "name": "Centre d'Archivage National de Données de Houle In Situ"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.98,
+          43.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Leucate",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "CANDHIS",
+        "report": "http://candhis.cetmef.developpement-durable.gouv.fr/campagne/?idcampagne=c81e728d9d4c2f636f067f89cc14862c",
+        "time_of_data": [
+          "historical",
+          "real-time"
+        ],
+        "start_date": "2006",
+        "end_date": "",
+        "source": {
+          "href": "http://candhis.cetmef.developpement-durable.gouv.fr/campagne/?idcampagne=c81e728d9d4c2f636f067f89cc14862c",
+          "type": "text/html",
+          "homepage": "http://candhis.cetmef.developpement-durable.gouv.fr/",
+          "name": "Centre d'Archivage National de Données de Houle In Situ"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.26,
+          42.92
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Banyuls",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "CANDHIS",
+        "report": "http://candhis.cetmef.developpement-durable.gouv.fr/campagne/?idcampagne=d9d4f495e875a2e075a1a4a6e1b9770f",
+        "time_of_data": [
+          "historical",
+          "real-time"
+        ],
+        "start_date": "2007",
+        "end_date": "",
+        "source": {
+          "href": "http://candhis.cetmef.developpement-durable.gouv.fr/campagne/?idcampagne=d9d4f495e875a2e075a1a4a6e1b9770f",
+          "type": "text/html",
+          "homepage": "http://candhis.cetmef.developpement-durable.gouv.fr/",
+          "name": "Centre d'Archivage National de Données de Houle In Situ"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.17,
+          42.49
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Cap de Begur",
+        "measures": [
+          "Waves",
+          "Wind",
+          "Atmospheric Pressure",
+          "Air Temperature"
+        ],
+        "dataGroup": "REDEXT",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_2.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "2001",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.65,
+          41.91
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy l'Estartit",
+        "measures": [
+          "Waves",
+          "Water Temperature",
+          "Air Temperature",
+          "Atmospheric Pressure",
+          "Humitat",
+          "Precipitació",
+          "Wind",
+          "Currents"
+        ],
+        "dataGroup": "CSIC",
+        "report": "",
+        "time_of_data": [
+          "historical",
+          "real-time"
+        ],
+        "start_date": "2020",
+        "end_date": "",
+        "source": {
+          "href": "https://estartit.icm.csic.es/",
+          "type": "text/html",
+          "homepage": "https://www.icm.csic.es/",
+          "name": "Institut de les Ciències del Mar"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.227704,
+          42.07255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Palamós",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "REDCOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_1.pdf",
+        "time_of_data": [
+          "historical"
+        ],
+        "start_date": "1988",
+        "end_date": "2012",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.19,
+          41.83
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Barcelona (II)",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "REDCOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_1.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "2004",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2,
+          41.32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Barcelona Port (I)",
+        "measures": [
+          "Waves"
+        ],
+        "dataGroup": "REDCOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_1.pdf",
+        "time_of_data": [
+          "historical"
+        ],
+        "start_date": "2003",
+        "end_date": "2006",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15,
+          41.29
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy OBSEA",
+        "measures": [
+          "Waves, Wind, Currents, Atmospheric Pressure, Air Temperature"
+        ],
+        "report": "https://obsea.es/mdSensors/Metadatos/Metadata-OBSEA-Meteo_Buoy_v2.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time"
+        ],
+        "start_date": "2013",
+        "end_date": "",
+        "source": {
+          "href": "https://obsea.es/dashboard/",
+          "type": "text/html",
+          "homepage": "https://obsea.es/",
+          "name": "UPC SARTI, Centre Tecnològic de Vilanova i la Geltrú"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.754,
+          41.193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Tarragona (Coast)",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "REDCOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_1.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "1992",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.19,
+          41.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Tarragona (Open Sea)",
+        "measures": [
+          "Waves",
+          "Wind",
+          "Water Temperature",
+          "Currents",
+          "Salinity",
+          "Atmospheric Pressure",
+          "Air Temperature"
+        ],
+        "dataGroup": "REDEXT",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_2.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "2004",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.47,
+          40.68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Son Blanc (SOCIB)",
+        "measures": [
+          "Waves"
+        ],
+        "dataGroup": "EXTERNOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_12.pdf",
+        "time_of_data": [
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "2017",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.83,
+          39.99
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Son Bou (SOCIB)",
+        "measures": [
+          "Waves"
+        ],
+        "dataGroup": "EXTERNOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_12.pdf",
+        "time_of_data": [
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "2017",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.07,
+          39.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Mahó",
+        "measures": [
+          "Waves",
+          "Wind",
+          "Air Temperature",
+          "Atmospheric Pressure"
+        ],
+        "dataGroup": "REDEXT",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_2.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "1993",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.42,
+          39.72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Capdepera",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "REDCOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_2.pdf",
+        "time_of_data": [
+          "historical"
+        ],
+        "start_date": "1989",
+        "end_date": "2014",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.48,
+          39.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy la Cala Millor (SOCIB)",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "EXTERNOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_12.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "2017",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.39,
+          39.59
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy la Dragonera",
+        "measures": [
+          "Waves",
+          "Wind",
+          "Water Temperature",
+          "Currents",
+          "Atmospheric Pressure",
+          "Air Temperature"
+        ],
+        "dataGroup": "REDEXT",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_2.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "2006",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1,
+          39.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Valencia (Open Sea)",
+        "measures": [
+          "Waves",
+          "Wind",
+          "Water Temperature",
+          "Currents",
+          "Salinity",
+          "Atmospheric Pressure",
+          "Air Temperature"
+        ],
+        "dataGroup": "REDEXT",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_2.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "2005",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2,
+          39.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Valencia Coast (II)",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "REDCOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_1.pdf",
+        "time_of_data": [
+          "historical"
+        ],
+        "start_date": "2005",
+        "end_date": "2013",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2,
+          39.51
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Valencia Coast (I)",
+        "measures": [
+          "Waves"
+        ],
+        "dataGroup": "REDCOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_1.pdf",
+        "time_of_data": [
+          "historical"
+        ],
+        "start_date": "1985",
+        "end_date": "2005",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.28,
+          39.46
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Cabo de Palos",
+        "measures": [
+          "Waves",
+          "Wind",
+          "Water Temperature",
+          "Air Temperature",
+          "Currents",
+          "Atmospheric Pressure",
+          "Salinity"
+        ],
+        "dataGroup": "REDEXT",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_2.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "2006",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.33,
+          37.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Cabo de Gata",
+        "measures": [
+          "Waves",
+          "Wind",
+          "Water Temperature",
+          "Air Temperature",
+          "Currents",
+          "Atmospheric Pressure",
+          "Salinity"
+        ],
+        "dataGroup": "REDEXT",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_2.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "1998",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.32,
+          36.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Golfo de Cádiz",
+        "measures": [
+          "Waves",
+          "Wind",
+          "Water Temperature",
+          "Air Temperature",
+          "Currents",
+          "Atmospheric Pressure",
+          "Salinity"
+        ],
+        "dataGroup": "REDEXT",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_2.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "1996",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.96,
+          36.48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Cartagena",
+        "measures": [
+          "Waves"
+        ],
+        "dataGroup": "REDCOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_1.pdf",
+        "time_of_data": [
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "2018",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.98,
+          37.54
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Málaga",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "REDCOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_1.pdf",
+        "time_of_data": [
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "1985",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.42,
+          36.69
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Mar de Alborán",
+        "measures": [
+          "Waves",
+          "Wind",
+          "Water Temperature",
+          "Air Temperature",
+          "Currents",
+          "Atmospheric Pressure",
+          "Salinity"
+        ],
+        "dataGroup": "REDEXT",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_2.pdf",
+        "time_of_data": [
+          "historical"
+        ],
+        "start_date": "1997",
+        "end_date": "2006",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.03,
+          36.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Algeciras",
+        "measures": [
+          "Waves",
+          "Water Temperature",
+          "Wind",
+          "Air Temperature",
+          "Atmospheric Pressure"
+        ],
+        "dataGroup": "REDCOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_1.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "2010",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.42,
+          36.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Tarifa",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "REDCOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_1.pdf",
+        "time_of_data": [
+          "historical"
+        ],
+        "start_date": "2009",
+        "end_date": "2018",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.59,
+          36.00
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Ceuta",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "REDCOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_1.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "1985",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.33,
+          35.90
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buoy Melilla",
+        "measures": [
+          "Waves",
+          "Water Temperature"
+        ],
+        "dataGroup": "REDCOS",
+        "report": "https://bancodatos.puertos.es/BD/informes/INT_1.pdf",
+        "time_of_data": [
+          "historical",
+          "real-time",
+          "forecast"
+        ],
+        "start_date": "2008",
+        "end_date": "",
+        "source": {
+          "href": "http://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx",
+          "type": "text/html",
+          "homepage": "https://www.mitma.gob.es/empresas-fomento/puertos-del-estado",
+          "name": "Ministerio de Transportes, Mobilidad y Agenda Urbana"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94,
+          35.33
+        ]
+      }
+    }
+  ]
+}

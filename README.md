@@ -81,6 +81,11 @@ Sea water temperature, waves...
 
 https://thredds.socib.es/thredds/catalog/operational_models/oceanographical/hydrodynamics/model_run_aggregation/wmop/catalog.html?dataset=operational_models/oceanographical/hydrodynamics/model_run_aggregation/wmop/wmop_best.ncd
 
+## [MSC GeoMet API - Gov Canada](https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/weather-tools-specialized-data/msc-geomet-api-geospatial-web-services.html)
+Wind, air quality, waves, precipitation, air temp...
+https://eccc-msc.github.io/open-data/usage/tutorial_WMS_QGIS_en/
+https://geo.weather.gc.ca/geomet?&service=WMS&version=1.3.0&request=GetCapabilities
+
 ### In progress...
 - Perfiladors ARGO (temps real): http://www.physocean.icm.csic.es/vado/argo/argo.geojson, http://www.physocean.icm.csic.es/vado/argo/R3901975.geojson. També es pot trobar info aquí: https://www.ocean-ops.org/board
 - Vaixells de la UTM: http://data.utm.csic.es/rtp/udp/ (XXXPOS)
